@@ -1,0 +1,25 @@
+bank,type,tenure_months,rate_general_pct,rate_senior_pct,as_of,source_note
+State Bank of India,Public sector,12,6.50,7.00,2026-09-30,ILLUSTRATIVE - replace from the bank's FD rates page before use
+State Bank of India,Public sector,24,6.75,7.25,2026-09-30,ILLUSTRATIVE
+State Bank of India,Public sector,36,6.50,7.00,2026-09-30,ILLUSTRATIVE
+State Bank of India,Public sector,60,6.50,7.50,2026-09-30,ILLUSTRATIVE
+HDFC Bank,Private,12,6.60,7.10,2026-09-30,ILLUSTRATIVE
+HDFC Bank,Private,24,6.90,7.40,2026-09-30,ILLUSTRATIVE
+HDFC Bank,Private,36,6.90,7.40,2026-09-30,ILLUSTRATIVE
+HDFC Bank,Private,60,6.75,7.25,2026-09-30,ILLUSTRATIVE
+ICICI Bank,Private,12,6.60,7.10,2026-09-30,ILLUSTRATIVE
+ICICI Bank,Private,24,6.90,7.40,2026-09-30,ILLUSTRATIVE
+ICICI Bank,Private,36,6.90,7.40,2026-09-30,ILLUSTRATIVE
+ICICI Bank,Private,60,6.75,7.25,2026-09-30,ILLUSTRATIVE
+Bank of Baroda,Public sector,12,6.60,7.10,2026-09-30,ILLUSTRATIVE
+Bank of Baroda,Public sector,24,6.80,7.30,2026-09-30,ILLUSTRATIVE
+Bank of Baroda,Public sector,36,6.60,7.10,2026-09-30,ILLUSTRATIVE
+Bank of Baroda,Public sector,60,6.50,7.15,2026-09-30,ILLUSTRATIVE
+Small finance bank (example),Small finance,12,7.75,8.25,2026-09-30,ILLUSTRATIVE
+Small finance bank (example),Small finance,24,8.00,8.50,2026-09-30,ILLUSTRATIVE
+Small finance bank (example),Small finance,36,8.00,8.50,2026-09-30,ILLUSTRATIVE
+Small finance bank (example),Small finance,60,7.75,8.25,2026-09-30,ILLUSTRATIVE
+Post Office Time Deposit,Government,12,6.90,6.90,2026-09-30,ILLUSTRATIVE
+Post Office Time Deposit,Government,24,7.00,7.00,2026-09-30,ILLUSTRATIVE
+Post Office Time Deposit,Government,36,7.10,7.10,2026-09-30,ILLUSTRATIVE
+Post Office Time Deposit,Government,60,7.50,7.50,2026-09-30,ILLUSTRATIVE

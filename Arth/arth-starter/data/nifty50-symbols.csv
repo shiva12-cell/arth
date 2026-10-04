@@ -1,0 +1,51 @@
+symbol,yahoo_ticker,company,sector
+ADANIENT,ADANIENT.NS,Adani Enterprises,Metals & Mining
+ADANIPORTS,ADANIPORTS.NS,Adani Ports & SEZ,Services
+APOLLOHOSP,APOLLOHOSP.NS,Apollo Hospitals,Healthcare
+ASIANPAINT,ASIANPAINT.NS,Asian Paints,Consumer Durables
+AXISBANK,AXISBANK.NS,Axis Bank,Financial Services
+BAJAJ-AUTO,BAJAJ-AUTO.NS,Bajaj Auto,Automobile
+BAJFINANCE,BAJFINANCE.NS,Bajaj Finance,Financial Services
+BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv,Financial Services
+BEL,BEL.NS,Bharat Electronics,Capital Goods
+BHARTIARTL,BHARTIARTL.NS,Bharti Airtel,Telecommunication
+CIPLA,CIPLA.NS,Cipla,Healthcare
+COALINDIA,COALINDIA.NS,Coal India,Oil Gas & Consumable Fuels
+DRREDDY,DRREDDY.NS,Dr. Reddy's Laboratories,Healthcare
+EICHERMOT,EICHERMOT.NS,Eicher Motors,Automobile
+ETERNAL,ETERNAL.NS,Eternal,Consumer Services
+GRASIM,GRASIM.NS,Grasim Industries,Construction Materials
+HCLTECH,HCLTECH.NS,HCLTech,Information Technology
+HDFCBANK,HDFCBANK.NS,HDFC Bank,Financial Services
+HDFCLIFE,HDFCLIFE.NS,HDFC Life,Financial Services
+HINDALCO,HINDALCO.NS,Hindalco Industries,Metals & Mining
+HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever,FMCG
+ICICIBANK,ICICIBANK.NS,ICICI Bank,Financial Services
+INDIGO,INDIGO.NS,IndiGo,Services
+INFY,INFY.NS,Infosys,Information Technology
+ITC,ITC.NS,ITC,FMCG
+JIOFIN,JIOFIN.NS,Jio Financial Services,Financial Services
+JSWSTEEL,JSWSTEEL.NS,JSW Steel,Metals & Mining
+KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra Bank,Financial Services
+LT,LT.NS,Larsen & Toubro,Construction
+M&M,M&M.NS,Mahindra & Mahindra,Automobile
+MARUTI,MARUTI.NS,Maruti Suzuki,Automobile
+MAXHEALTH,MAXHEALTH.NS,Max Healthcare,Healthcare
+NESTLEIND,NESTLEIND.NS,Nestle India,FMCG
+NTPC,NTPC.NS,NTPC,Power
+ONGC,ONGC.NS,Oil and Natural Gas Corporation,Oil Gas & Consumable Fuels
+POWERGRID,POWERGRID.NS,Power Grid,Power
+RELIANCE,RELIANCE.NS,Reliance Industries,Oil Gas & Consumable Fuels
+SBILIFE,SBILIFE.NS,SBI Life Insurance,Financial Services
+SHRIRAMFIN,SHRIRAMFIN.NS,Shriram Finance,Financial Services
+SBIN,SBIN.NS,State Bank of India,Financial Services
+SUNPHARMA,SUNPHARMA.NS,Sun Pharma,Healthcare
+TCS,TCS.NS,Tata Consultancy Services,Information Technology
+TATACONSUM,TATACONSUM.NS,Tata Consumer Products,FMCG
+TMPV,TMPV.NS,Tata Motors Passenger Vehicles,Automobile
+TATASTEEL,TATASTEEL.NS,Tata Steel,Metals & Mining
+TECHM,TECHM.NS,Tech Mahindra,Information Technology
+TITAN,TITAN.NS,Titan Company,Consumer Durables
+TRENT,TRENT.NS,Trent,Consumer Services
+ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement,Construction Materials
+WIPRO,WIPRO.NS,Wipro,Information Technology
